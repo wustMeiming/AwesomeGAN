@@ -6,12 +6,12 @@
 GAN的发展轨迹如下：
 GAN->CGAN->LAPGAN->DCGAN->GRAN->VAEGAN
 
-GAN    Generative adversarial nets https://arxiv.org/abs/1406.2661
-CGAN   Conditional Generative Adversarial Nets https://arxiv.org/abs/1411.1784
-LAPGAN Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks https://arxiv.org/abs/1506.05751
-DCGAN  Unsupervised representation learning with deep convolutional generative adversarial networks https://arxiv.org/abs/1511.06434
-GRAN   Generating images with recurrent adversarial networks http://lanl.arxiv.org/abs/1602.05110
-VAEGAN Autoencoding beyond pixels using a learned similarity metric https://arxiv.org/abs/1512.09300
+1. GAN    Generative adversarial nets https://arxiv.org/abs/1406.2661
+2. CGAN   Conditional Generative Adversarial Nets https://arxiv.org/abs/1411.1784
+3. LAPGAN Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks https://arxiv.org/abs/1506.05751
+4. DCGAN  Unsupervised representation learning with deep convolutional generative adversarial networks https://arxiv.org/abs/1511.06434
+5. GRAN   Generating images with recurrent adversarial networks http://lanl.arxiv.org/abs/1602.05110
+6. VAEGAN Autoencoding beyond pixels using a learned similarity metric https://arxiv.org/abs/1512.09300
 
 ## 代码
 - Tensorflow implementation of Deep Convolutional Generative Adversarial Networks which is a stabilize Generative Adversarial Networks https://github.com/carpedm20/DCGAN-tensorflow
